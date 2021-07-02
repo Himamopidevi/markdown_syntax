@@ -28,4 +28,28 @@ _hello_
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3XCzuis1Qwv1u20z-CxRMVfyCTxw93mF-hQ&usqp=CAU" width=100px height=100px>"
 
-<img src=
+<img src="https://raw.githubusercontent.com/Himamopidevi/markdown_syntax/main/v2.jpg">
+
+##bullet points
+
+# languages
+
++ C
+  + introduction
+  + files
+    + jmm
+  + pointers
+ 
+- python
+  - introduction
+  - files
+  - 
+* jaava
+  * corejava
+
+## table
+
+| s.no | Languages | Inbentors |
+|------|-----------|-----------|
+|1     | Python    |guidovanrossum|
+|2     |  Java     |James gosling|
